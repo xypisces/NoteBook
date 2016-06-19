@@ -1,2 +1,3 @@
 # xypisces.github.io-Notebook
-## The notebook of everyday
+### 不定时添加笔记
+### 为后期建立个人日记本做准备
