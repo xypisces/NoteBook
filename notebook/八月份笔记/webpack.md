@@ -1,5 +1,5 @@
 <h3>webpack示例</h3>
-<code>
+```javascript
 	//webpack.config.js
 	var path = require('path')
 	var webpack = require('webpack')
@@ -25,4 +25,4 @@
 				}]
 		}
 	}
-</code>
+```

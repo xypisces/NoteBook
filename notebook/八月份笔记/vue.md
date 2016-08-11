@@ -2,7 +2,7 @@
 
 <p>特点:可拔插,独立作用域,观察者模式,完整的生命周期</p>
 
-<code>
+```javascript
 	Vue.component('child',{
 		props:['msg'],
 		template:'<span>{{ msg }}</span>',
@@ -24,4 +24,4 @@
 		//...
 	}
 })
-</code>
+```
