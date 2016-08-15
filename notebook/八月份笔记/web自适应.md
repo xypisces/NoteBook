@@ -1,10 +1,11 @@
 <h3>web自适应</h3>
 <span>移动端头部必须加上这句</span>
 <code>
-	<<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
 </code>
 
 <h4>1:Flex布局</h4>
+
 <h4>2:rem</h4>
 ```css
 //此时1rem=10px;rem的值是继承父类元素
