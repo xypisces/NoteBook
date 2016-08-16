@@ -3,7 +3,7 @@
 
 <h3>Flex布局</h3>
 <strong>容器的属性</strong>
-```html
+
 <ul>
 	//决定项目的排列方向:row(水平),row-reverse(方向水平),column(垂直)
 	<li>flex-direction:row/row-reverse/column/column-reverse</li>
@@ -18,9 +18,9 @@
 	//同上(只是有多行时用这个)
 	<li>align-content:flex-start/flex-end/center/space-between/space-around/stretch</li>
 </ul>
-```
+
 <strong>项目的属性</strong>
-```html
+
 <ul>
 	<li>order:定义项目的排列顺序。数值越小，排列越靠前，默认为0。</li>
 	<li>flex-grow:定义项目的放大比例，默认为0，即如果存在剩余空间，也不放大</li>
