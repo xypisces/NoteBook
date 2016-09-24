@@ -9,6 +9,6 @@
         <img src="img/add001" alt="图片">
     </picture>
 </code>
-
+<script src='引入polyfill脚本'></script>
 ### 压缩图片
 - www.tinypng.com
