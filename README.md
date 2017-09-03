@@ -1,5 +1,5 @@
 # The markdown of blog
 
-[blog](xypisces.github.io)
+[blog](https://xypisces.github.io)
 
 > less is more.
